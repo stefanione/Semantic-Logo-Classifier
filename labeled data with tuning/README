@@ -1,0 +1,2 @@
+This folder contains the resulting data from the tuned input data. This means that I have applied some basic tuning to the input data, turning it to lowercase. 
+I have chosen lowercase because the input dataset about insurance did not contain any special characters in the description feature.
