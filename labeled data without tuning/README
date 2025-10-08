@@ -1,1 +1,2 @@
-This folder contains the labeled data without tuning
+This folder contains the labeled data without tuning, which means that the input data was raw. 
+The reason is that the description feature in the input insurance dataset didn't contain any special characters
